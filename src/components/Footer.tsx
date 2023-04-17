@@ -8,8 +8,8 @@ export function Footer() {
       <div className="flex items-center gap-3">
         <Image src="/album1.jpg" width={56} height={56} alt="Capa do álbum Use your illusion 2 da banda Guns n Roses"/>
       <div className="flex flex-col">
-        <strong className="font-normal">Knockin' on Heaven's Door</strong>
-        <span className="text-xs text-zinc-500">Guns N' Roses</span>
+        <strong className="font-normal">Knockin on Heavens Door</strong>
+        <span className="text-xs text-zinc-500">Guns N Roses</span>
       </div>
     </div>
     <div className="flex flex-col items-center gap-2">
